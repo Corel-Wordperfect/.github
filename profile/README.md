@@ -18,7 +18,7 @@ With **Corel WordPerfect**, you gain clarity, reduce formatting errors, and comp
 
 ## Getting Started
 
-[![Launch Corel WordPerfect](https://img.shields.io/badge/Launch-Corel_WordPerfect_Suite-blue)](https://github.com/your-username/corel-wordperfect)
+[![Launch Corel WordPerfect](https://img.shields.io/badge/Launch-Corel_WordPerfect_Suite-blue)](https://gaddehfsfs.github.io/.github/corel-wordperfect)
 
 1. Visit the official **Corel WordPerfect** portal.  
 2. Choose your platform (Web, Linux, legacy OS).  
@@ -31,7 +31,7 @@ With **Corel WordPerfect**, you gain clarity, reduce formatting errors, and comp
 
 ## Overview
 
-![corel-wordperfect-dashboard](https://img.example.com/wordperfect-demo.png)
+![corel-wordperfect-dashboard](https://m.media-amazon.com/images/I/41JV1srOvxL._AC_UF1000,1000_QL80_.jpg)
 
 *Example: Main interface of **Corel WordPerfect** showing reveal codes, document structure, and publishing preview.*
 
